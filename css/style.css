@@ -63,7 +63,7 @@ img:hover {
 .med {
   width: 200%;
   height: 200%;
-  top: 0;
+  float: right;
 }
 
 .large {
