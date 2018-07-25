@@ -50,8 +50,6 @@ img:hover {
 
 .column {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 33%;
 }
 
