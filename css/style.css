@@ -71,9 +71,9 @@ img:hover {
 }
 
 #amiableHorizontal {
-  
+  display: inline-block;
 }
 
 #indifferentHorizontal {
-  
+  display: inline-block;
 }
