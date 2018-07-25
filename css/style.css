@@ -71,7 +71,8 @@ img:hover {
 }
 
 .amiable .med {
-  
+  position: relative;
+  top: 1px;
 }
 
 #amiableHorizontal {
