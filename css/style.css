@@ -49,6 +49,7 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 .column {
+  display: inline-block;
   width: 33%;
 }
 
@@ -62,8 +63,7 @@ img:hover {
 .med {
   width: 200%;
   height: 200%;
-  float: right;
-}
+  }
 
 .large {
   width: 300%;
