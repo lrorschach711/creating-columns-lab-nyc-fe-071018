@@ -71,7 +71,7 @@ img:hover {
 }
 
 .amiable .med {
-  position: relative;
+  position: fixed;
   top: 1px;
 }
 
